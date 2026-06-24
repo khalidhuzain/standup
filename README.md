@@ -133,4 +133,7 @@ License: MIT License
 
 ## Project Mission
 
-StandUp exists to help people build healthier computer habits through simple, firm, and privacy-friendly movement reminders.
+StandUp exists to help people build healthier computer habits through simple, firm, and privacy-friendly movement reminders. 
+
+## Contact
+khalid.huzain@gmail.com
